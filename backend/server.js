@@ -28,3 +28,9 @@ app.listen(PORT, () => {
 	connectDB();
 	console.log("Server started at http://localhost:" + PORT);
 });
+
+
+
+
+//MONGO_URI=mongodb+srv://sridhanushsuru2006:zu2llzfEKeBalkqv@cluster0.cuext22.mongodb.net/products?retryWrites=true&w=majority&appName=Cluster0
+//PORT = 5000
